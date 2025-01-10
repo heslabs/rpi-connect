@@ -9,9 +9,7 @@ https://connect.raspberrypi.com
  
 ---
 #### 2. Sign in with your Raspberry Pi ID
-Email: support@heswiki.com 
-Password: xxxxxxxxxx
-
+ 
 <img src="https://github.com/user-attachments/assets/e0de9205-6aaa-406e-8099-d3a570473671" width=450>
 
  
