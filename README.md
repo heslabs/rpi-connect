@@ -1,4 +1,4 @@
-# Tutorial for Raspberry Pi Connect
+# Raspberry Pi Connect
 
 ---
 #### 1. Open your browser and go to the Pi connect
