@@ -38,9 +38,12 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 ---
 #### 5. Open the Linux terminal and launch the script to run your AI applications
 
-<br/>
-<img src="https://github.com/user-attachments/assets/6973c938-c0d8-4291-8a52-1092b52367bf" width=850>
+```
+$ make run
+```
 
+<img src="https://github.com/user-attachments/assets/d3a4221f-a31d-4a9a-b7da-3b940f885ee6" width=850>
+ 
 ---
 #### 6. Check the application results on the shared screen session
 
