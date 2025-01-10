@@ -36,7 +36,7 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 <img src="https://github.com/user-attachments/assets/2df40ec8-179f-4132-94ba-de29069f94c2" width=850>
 
 ---
-#### 5. Open the Linux terminal and launch script for running your AI applications
+#### 5. Open the Linux terminal and launch script for running your applications
 
 ```
 $ make run
@@ -47,6 +47,17 @@ $ make run
 ---
 #### 6. Check the application results on the shared screen session
 
+* The demo will be stopped automatically after few seconds
+
 <br/>
 <img src="https://github.com/user-attachments/assets/2ff10d5d-bb2d-4118-a40d-a900fcd44cfd" width=850>
 
+
+---
+### 7. End your remote shell session
+
+* To close a remote shell session, click the **button "Disconect"** in top-left corner or click "**close the window**" in top right corner
+
+<br/>
+<img src="https://github.com/user-attachments/assets/2eab526e-aa8b-4ef7-8068-d1b1b9dd9d78" width=850>
+ 
