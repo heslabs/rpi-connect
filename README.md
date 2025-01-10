@@ -36,7 +36,7 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 <img src="https://github.com/user-attachments/assets/2df40ec8-179f-4132-94ba-de29069f94c2" width=850>
 
 ---
-#### 5. Open the Linux terminal and launch the script to run your AI applications
+#### 5. Open the Linux terminal and launch script for running your AI applications
 
 ```
 $ make run
