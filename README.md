@@ -15,6 +15,7 @@ https://connect.raspberrypi.com
  
 ---
 #### 3. Select your device and connect it via Screen sharing 
+https://connect.raspberrypi.com/devices
 
 <img src="https://github.com/user-attachments/assets/10ef7f7a-be3a-43d9-baf2-c99157c95dc6" width=550>
 
