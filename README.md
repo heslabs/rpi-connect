@@ -1,7 +1,7 @@
 # Raspberry Pi Connect
 
 ---
-#### 1. Open your browser and go to the Pi connect
+#### 1. Open your browser and go to the Pi connect in below link
 https://connect.raspberrypi.com
 
 <img src="https://github.com/user-attachments/assets/3ea95d2a-e8fe-458c-aa74-0610cd56fade" width=450>
