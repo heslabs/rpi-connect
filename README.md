@@ -6,7 +6,7 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 <img src="https://github.com/user-attachments/assets/0d6b97b2-66a5-4dba-a273-7d4cf5afd5fa" width=850>
 
 ---
-### Target Audience
+### Target Users
 Academic AI SoC developers
 
 ---
