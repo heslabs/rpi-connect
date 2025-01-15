@@ -5,6 +5,7 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 <br/>
 <img src="https://github.com/user-attachments/assets/0d6b97b2-66a5-4dba-a273-7d4cf5afd5fa" width=850>
 
+<img src="https://github.com/user-attachments/assets/edaafe6f-e6c0-4abd-8030-0b50799e08c9" width=250>
 <img src="https://github.com/user-attachments/assets/4405fabf-e08b-4a2c-89f0-d832f51fe990" width=300>
 
 ---
