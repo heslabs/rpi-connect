@@ -5,6 +5,8 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 <br/>
 <img src="https://github.com/user-attachments/assets/0d6b97b2-66a5-4dba-a273-7d4cf5afd5fa" width=850>
 
+<img src="https://github.com/user-attachments/assets/4405fabf-e08b-4a2c-89f0-d832f51fe990" width=300>
+
 ---
 ### Target Users
 Academic AI SoC developers
