@@ -57,7 +57,5 @@ $ make run
 ### 7. End your remote shell session
 
 * To close a remote shell session, click the **button "Disconect"** in top-left or click "**close the window**" in top right corner
-
-<br/>
-<img src="https://github.com/user-attachments/assets/2eab526e-aa8b-4ef7-8068-d1b1b9dd9d78" width=850>
+ 
  
