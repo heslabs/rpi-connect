@@ -1,4 +1,4 @@
-# Raspberry Pi Connect
+# Raspberry Pi Cloud
 
 Reference: https://www.raspberrypi.com/documentation/services/connect.html
 
