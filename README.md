@@ -1,7 +1,21 @@
 # Raspberry Pi Cloud
 
-Reference: https://www.raspberrypi.com/documentation/services/connect.html
+Reference: https://www.raspberrypi.com/documentation/services/connect.html \
 
+#### Raspberry Pi Connect provides secure access to your Raspberry Pi from anywhere in the world.
+
+* To use Connect, install the Connect software and link your device with an account on your Raspberry Pi.
+* Then visit ```connect.raspberrypi.com``` to access the desktop or a shell running on your Raspberry Pi in a browser window.
+
+#### Install and start Connect
+```
+$ sudo apt update
+$ sudo apt full-upgrade
+$ sudo apt install rpi-connect
+$ rpi-connect on
+```
+
+---
 <br/>
 <img src="https://github.com/user-attachments/assets/0d6b97b2-66a5-4dba-a273-7d4cf5afd5fa" width=850>
 
