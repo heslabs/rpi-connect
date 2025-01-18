@@ -4,7 +4,7 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html \
 
 #### Raspberry Pi Connect provides secure access to your Raspberry Pi from anywhere in the world.
 
-* To use Connect, install the Connect software and link your device with an account on your Raspberry Pi.
+* To use Connect, install the **Connect software** and link your device with an **Pi account** on your Raspberry Pi.
 * Then visit ```connect.raspberrypi.com``` to access the desktop or a shell running on your Raspberry Pi in a browser window.
 
 #### Install and start Connect
