@@ -110,7 +110,7 @@ $ make run
 
 
 ---
-### 7. End your remote shell session
+#### 7. End your remote shell session
 
 * To close a remote shell session, click the **button "Disconect"** in top-left or click "**close the window**" in top right corner
  
