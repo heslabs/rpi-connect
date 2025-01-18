@@ -89,7 +89,7 @@ Tech Spec: https://www.raspberrypi.com/products/raspberry-pi-5/
 #### 4. Use your device as you use it locally with GUI interface
 
 <br/>
-<img src="https://github.com/user-attachments/assets/2df40ec8-179f-4132-94ba-de29069f94c2" width=850>
+<img src="https://github.com/user-attachments/assets/2df40ec8-179f-4132-94ba-de29069f94c2" width=650>
 
 ---
 #### 5. Open the Linux terminal and launch script for running your applications
@@ -98,7 +98,7 @@ Tech Spec: https://www.raspberrypi.com/products/raspberry-pi-5/
 $ make run
 ```
 
-<img src="https://github.com/user-attachments/assets/d3a4221f-a31d-4a9a-b7da-3b940f885ee6" width=850>
+<img src="https://github.com/user-attachments/assets/d3a4221f-a31d-4a9a-b7da-3b940f885ee6" width=650>
  
 ---
 #### 6. Check the application results on the shared screen session
@@ -106,7 +106,7 @@ $ make run
 * The demo will be stopped automatically after few seconds
 
 <br/>
-<img src="https://github.com/user-attachments/assets/2ff10d5d-bb2d-4118-a40d-a900fcd44cfd" width=850>
+<img src="https://github.com/user-attachments/assets/2ff10d5d-bb2d-4118-a40d-a900fcd44cfd" width=650>
 
 
 ---
