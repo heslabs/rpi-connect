@@ -1,6 +1,6 @@
 # Raspberry Pi Cloud
 
-Reference: https://www.raspberrypi.com/documentation/services/connect.html \
+Reference: https://www.raspberrypi.com/documentation/services/connect.html
 
 #### Raspberry Pi Connect provides secure access to your Raspberry Pi from anywhere in the world.
 
