@@ -12,7 +12,12 @@ Reference: https://www.raspberrypi.com/documentation/services/connect.html
 $ sudo apt update
 $ sudo apt full-upgrade
 $ sudo apt install rpi-connect
+$ sudo apt install rpi-connect-lite
 $ rpi-connect on
+$ rpi-connect signin
+$ rpi-connect signout
+$ rpi-connect vnc
+$ rpi-connect shell
 ```
 
 ---
