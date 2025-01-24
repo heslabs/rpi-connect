@@ -7,6 +7,9 @@ https://connect.raspberry.com
 ```
 
 #### 2. Select device "RX5F" and choose "Screen sharing"
+```
+Login username: support@heswiki.com
+```
 
 #### 3. Open a terminal and execute demo script
 ```
@@ -15,4 +18,5 @@ $ source ./setup_env.sh
 $ make
 $ make pos
 $ make pos-u
+Ctrl-C to stop demo
 ```
