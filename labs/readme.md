@@ -17,7 +17,9 @@ Login PI-Connect Password: xxxxxxxx (by request)
 $ cd ~/halio-rpi-examples
 $ source ./setup_env.sh
 $ make
-$ make pos
-$ make pos-u
+$ make pos | pos-u  (Pose Estimation)
+$ make det | det-u  (Object Detection)
+$ make seg | seg-u  (Instance Segmentation)
+
 Ctrl-C to stop demo
 ```
