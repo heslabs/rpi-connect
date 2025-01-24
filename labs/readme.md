@@ -6,7 +6,7 @@
 https://connect.raspberry.com
 ```
 
-#### 2. Select device "RX5F" and choose "Screen sharing"
+#### 2. Select device "RX5F-HAPS" and choose "Screen sharing"
 ```
 Login PI-Connect Username: support@heswiki.com
 Login PI-Connect Password: xxxxxxxx (by request)
