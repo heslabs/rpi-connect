@@ -8,7 +8,8 @@ https://connect.raspberry.com
 
 #### 2. Select device "RX5F" and choose "Screen sharing"
 ```
-Login username: support@heswiki.com
+Login PI-Connect username: support@heswiki.com
+Login PI-Connect username: xxxxxxxx (by request)
 ```
 
 #### 3. Open a terminal and execute demo script
