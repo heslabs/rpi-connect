@@ -20,6 +20,7 @@ $ make
 $ make pos | pos-u  (Pose Estimation)
 $ make det | det-u  (Object Detection)
 $ make seg | seg-u  (Instance Segmentation)
-
-Press Ctrl-C in the terminal to stop demo
 ```
+
+* Demo with USB camera: pos-u | det-u | seg-u
+* Press Ctrl-C in the terminal to stop demo
