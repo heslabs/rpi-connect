@@ -11,6 +11,7 @@ https://connect.raspberry.com
 #### 3. Open a terminal and execute demo script
 ```
 $ cd ~/halio-rpi-examples
+$ source ./setup_env.sh
 $ make
 $ make pos
 $ make pos-u
