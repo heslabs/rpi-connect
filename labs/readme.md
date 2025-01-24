@@ -21,5 +21,5 @@ $ make pos | pos-u  (Pose Estimation)
 $ make det | det-u  (Object Detection)
 $ make seg | seg-u  (Instance Segmentation)
 
-Ctrl-C to stop demo
+Press Ctrl-C in the terminal to stop demo
 ```
