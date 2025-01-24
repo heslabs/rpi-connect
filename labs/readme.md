@@ -17,10 +17,14 @@ Login PI-Connect Password: xxxxxxxx (by request)
 $ cd ~/hailo-rpi-examples
 $ source ./setup_env.sh
 $ make
-$ make pos | pos-u  (Pose Estimation)
-$ make det | det-u  (Object Detection)
-$ make seg | seg-u  (Instance Segmentation)
-```
+$ make pos    (Pose Estimation using recorded video)
+$ make pos-u  (Pose Estimation using USB camera)
+$ make det    (Object Detection using recorded video)
+$ make det-u  (Object Detection using USB camera)
+$ make seg    (Instance Segmentation using recorded video)
+$ make seg-u  (Instance Segmentation using USB camera)
+...
 
-* Demo with USB camera: pos-u | det-u | seg-u
-* Press Ctrl-C in the terminal to stop demo
+Press Ctrl-C in the terminal to stop demo
+```
+ 
