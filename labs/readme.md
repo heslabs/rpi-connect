@@ -14,7 +14,7 @@ Login PI-Connect Password: xxxxxxxx (by request)
 
 #### 3. Open a terminal and execute demo script
 ```
-$ cd ~/halio-rpi-examples
+$ cd ~/hailo-rpi-examples
 $ source ./setup_env.sh
 $ make
 $ make pos | pos-u  (Pose Estimation)
