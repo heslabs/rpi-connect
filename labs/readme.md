@@ -1,0 +1,17 @@
+## Lab Quick Start Guide
+
+
+#### 1. Open your broswer to go to PI connect
+```
+https://connect.raspberry.com
+```
+
+#### 2. Select device "RX5F" and choose "Screen sharing"
+
+#### 3. Open a terminal and execute demo script
+```
+$ cd ~/halio-rpi-examples
+$ make
+$ make pos
+$ make pos-u
+```
