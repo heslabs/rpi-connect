@@ -28,7 +28,7 @@ $ make seg-u  (Instance Segmentation using USB camera)
 Press Ctrl-C in the terminal to stop demo
 ```
 
-### 4. Launch the script to run whisper demo
+### 4. Launch the script to run Whisper demo
 ```
 $ cd ~/whisper
 $ make demo
